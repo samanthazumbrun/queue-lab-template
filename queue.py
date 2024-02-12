@@ -1,6 +1,5 @@
 class Queue:
     def __init__(self):
-        self.color = "Purple"
         self.cards = []
 
     #REMOVE PASS AND COMPLETE THE FUNCTION

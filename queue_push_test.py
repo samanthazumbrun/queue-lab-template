@@ -1,7 +1,7 @@
-import main
+import queue
 
-def test_main():
-    dmv = main.Queue()
+def test_queue():
+    dmv = queue.Queue()
     dmv.push(1)
     dmv.push(2)
     dmv.push(3)

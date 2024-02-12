@@ -1,0 +1,44 @@
+{
+    "tests": [
+      {
+        "name": "queue_empty_test.py",
+        "setup": "sudo -H pip3 install pytest",
+        "run": "pytest",
+        "input": "",
+        "output": "",
+        "comparison": "exact",
+        "timeout": 1,
+        "points": 10
+      },
+      {
+        "name": "queue_initial_test.py.py",
+        "setup": "sudo -H pip3 install pytest",
+        "run": "pytest",
+        "input": "",
+        "output": "",
+        "comparison": "exact",
+        "timeout": 1,
+        "points": 10
+      },
+      {
+        "name": "queue_push_test.py",
+        "setup": "sudo -H pip3 install pytest",
+        "run": "pytest",
+        "input": "",
+        "output": "",
+        "comparison": "exact",
+        "timeout": 1,
+        "points": 10
+      },
+      {
+        "name": "queue_test.py",
+        "setup": "sudo -H pip3 install pytest",
+        "run": "pytest",
+        "input": "",
+        "output": "",
+        "comparison": "exact",
+        "timeout": 1,
+        "points": 10
+      }
+    ]
+  }

@@ -8,7 +8,7 @@
         "output": "",
         "comparison": "exact",
         "timeout": 1,
-        "points": 10
+        "points": 25
       },
       {
         "name": "queue_initial_test.py.py",
@@ -18,7 +18,7 @@
         "output": "",
         "comparison": "exact",
         "timeout": 1,
-        "points": 10
+        "points": 25
       },
       {
         "name": "queue_push_test.py",
@@ -28,7 +28,7 @@
         "output": "",
         "comparison": "exact",
         "timeout": 1,
-        "points": 10
+        "points": 25
       },
       {
         "name": "queue_test.py",
@@ -38,7 +38,7 @@
         "output": "",
         "comparison": "exact",
         "timeout": 1,
-        "points": 10
+        "points": 25
       }
     ]
   }

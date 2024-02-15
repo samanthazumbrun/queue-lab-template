@@ -1,5 +1,5 @@
-import queue
+import main
 
 def test_queue():
-    dmv = queue.Queue()
+    dmv = main.Queue()
     assert dmv.cards == []
